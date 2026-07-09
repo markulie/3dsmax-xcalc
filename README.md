@@ -1,5 +1,7 @@
 # xCalc
 
+Calculator for 3ds Max
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/markulie/xCalc)
 ![GitHub stars](https://img.shields.io/github/stars/markulie/xCalc?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/markulie/xCalc?style=social)
