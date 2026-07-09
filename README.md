@@ -2,8 +2,6 @@
 
 Simple Calculator for Autodesk 3ds Max
 
-## For 3ds Max
-
 <img width="125" src="demo_xCalc_3dsMax.png">
 
 
